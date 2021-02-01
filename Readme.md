@@ -11,6 +11,14 @@ Las dudas y preguntas mejor online, pero si no estoy online y quereis preguntar,
 
 ## Enlaces
 
+Udemy: https://www.udemy.com/user/miguelarranzmijack/
+
+Telegram: https://t.me/joinchat/RXZI4jiQovHrsxq8
+
+Discord: https://discord.gg/KrYk5wvY6q	
+
+Patreon: https://patreon.com/videocursoscloud	
+
 Twitter: https://www.twitter.com/vcursoscloud 
 
 Facebook: https://facebook.com/videocursoscloud 
@@ -19,4 +27,4 @@ Youtube: https://www.youtube.com/channel/UCdU8fEJqQtB8e-iOpZcxKQQ
 
 Nuevo canal en breves en : https://www.youtube.com/channel/UCjeMXFMvba_j7vE6vZKus-Q
 
-Comandos de nightbot: https://nightbot.tv/t/videocursoscloud/commands
+Comandos de nightbot: https://nightbot.tv/t/videocursoscloud/commands 
