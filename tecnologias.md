@@ -16,7 +16,7 @@ Nightbot
 
 ## Pendientes 
 
-containerd / https://pypi.org/project/containerd/  [comment]: <> (This is a comment, it will not be included)
+containerd / https://pypi.org/project/containerd/  
 
 rocket / coreos
 
