@@ -6,3 +6,17 @@ Las dudas y preguntas mejor online, pero si no estoy online y quereis preguntar,
 
 
 [Tecnologias que vemos en los directos](https://github.com/videocursoscloud/twitch-docs/blob/master/tecnologias.md)
+
+
+
+## Enlaces
+
+Twitter: https://www.twitter.com/vcursoscloud 
+
+Facebook: https://facebook.com/videocursoscloud 
+
+Youtube: https://www.youtube.com/channel/UCdU8fEJqQtB8e-iOpZcxKQQ 
+
+Nuevo canal en breves en : https://www.youtube.com/channel/UCjeMXFMvba_j7vE6vZKus-Q
+
+Comandos de nightbot: https://nightbot.tv/t/videocursoscloud/commands
