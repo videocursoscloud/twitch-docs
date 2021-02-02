@@ -16,6 +16,8 @@ Nightbot
 
 ## Pendientes 
 
+terragrunt
+
 containerd / https://pypi.org/project/containerd/  
 
 rocket / coreos
@@ -65,6 +67,8 @@ openshift
 https://podman.io/
 
 Jenkins x
+
+https://libraries.excalidraw.com/
 
 ## Regrabados para Youtube:
 
