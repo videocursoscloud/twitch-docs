@@ -68,6 +68,8 @@ https://podman.io/
 
 Jenkins x
 
+https://libraries.excalidraw.com/
+
 ## Regrabados para Youtube:
 
 Not yet
