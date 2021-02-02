@@ -7,7 +7,7 @@ Las dudas y preguntas mejor online, pero si no estoy online y quereis preguntar,
 
 [Tecnologias que vemos en los directos](https://github.com/videocursoscloud/twitch-docs/blob/master/tecnologias.md)
 
-
+[Colabora con Videocursoscloud](https://github.com/videocursoscloud/twitch-docs/blob/master/colabora.md)
 
 ## Enlaces
 
