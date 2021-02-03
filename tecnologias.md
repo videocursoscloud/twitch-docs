@@ -2,6 +2,10 @@
 
 ## Vistas
 
+Helm/chartmuseum (3/2/2021)
+
+Cloudwatch custom logs (3/2/2021)
+
 EC2 Image Builder
 
 ArgoCD
@@ -13,6 +17,10 @@ Github Actions
 Hashicorp vault 
 
 Nightbot
+
+## Next 
+
+Jenkins x
 
 ## Pendientes 
 
@@ -31,8 +39,6 @@ ansible
 Rancher 
 
 Concourse
-
-Helm
 
 AWS Step Functions
 
@@ -66,7 +72,6 @@ openshift
 
 https://podman.io/
 
-Jenkins x
 
 https://libraries.excalidraw.com/
 
