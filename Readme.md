@@ -11,6 +11,8 @@ Las dudas y preguntas mejor online, pero si no estoy online y quereis preguntar,
 
 ## Enlaces
 
+Mi Setup: https://kit.co/VCursosCloud/setup
+
 Udemy: https://www.udemy.com/user/miguelarranzmijack/
 
 Telegram: https://t.me/joinchat/RXZI4jiQovHrsxq8
