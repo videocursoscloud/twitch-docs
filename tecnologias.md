@@ -24,6 +24,8 @@ Jenkins x
 
 ## Pendientes 
 
+Serverless framework / https://github.com/serverless/examples/tree/master/aws-python-rest-api-with-dynamodb
+
 terragrunt
 
 containerd / https://pypi.org/project/containerd/  
