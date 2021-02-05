@@ -25,8 +25,8 @@ Twitter: https://www.twitter.com/vcursoscloud
 
 Facebook: https://facebook.com/videocursoscloud 
 
-Youtube: https://www.youtube.com/channel/UCdU8fEJqQtB8e-iOpZcxKQQ 
-
-Nuevo canal en breves en : https://www.youtube.com/channel/UCjeMXFMvba_j7vE6vZKus-Q
+Nuevo canal de videocursoscloud: https://www.youtube.com/channel/UCjeMXFMvba_j7vE6vZKus-Q
 
 Comandos de nightbot: https://nightbot.tv/t/videocursoscloud/commands 
+
+(Canal Viejo) Youtube Directos y Legacy: https://www.youtube.com/channel/UCdU8fEJqQtB8e-iOpZcxKQQ 
