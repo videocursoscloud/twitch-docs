@@ -81,6 +81,8 @@ https://podman.io/
 
 
 https://libraries.excalidraw.com/
+bpytop
+harbor
 
 ## Regrabados para Youtube:
 
