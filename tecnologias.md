@@ -2,11 +2,14 @@
 
 ## Vistas
 
+
 Helm/chartmuseum (3/2/2021)
 
 Cloudwatch custom logs (3/2/2021)
 
-gitlab CI/CD (9/2/2021)
+gitlab CI/CD (8/2/2021)
+
+https://github.com/GoogleContainerTools/kaniko (9/2/2021)
 
 EC2 Image Builder
 
@@ -34,7 +37,6 @@ istio / service mesh teorico
 
 gitlab CI/CD con DIND
 
-https://github.com/GoogleContainerTools/kaniko
 
 https://docksal.io/
 
