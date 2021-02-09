@@ -30,6 +30,8 @@ Jenkins x
 
 ## Pendientes 
 
+istio / service mesh teorico
+
 gitlab CI/CD con DIND
 
 https://github.com/GoogleContainerTools/kaniko
