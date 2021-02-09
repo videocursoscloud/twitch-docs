@@ -11,6 +11,8 @@ Las dudas y preguntas mejor online, pero si no estoy online y quereis preguntar,
 
 ## Enlaces
 
+Sitios de noticias: https://github.com/videocursoscloud/twitch-docs/blob/master/noticias.md
+
 Mi Setup: https://kit.co/VCursosCloud/setup
 
 Udemy: https://www.udemy.com/user/miguelarranzmijack/
