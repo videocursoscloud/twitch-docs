@@ -6,6 +6,8 @@ Helm/chartmuseum (3/2/2021)
 
 Cloudwatch custom logs (3/2/2021)
 
+gitlab CI/CD (9/2/2021)
+
 EC2 Image Builder
 
 ArgoCD
@@ -18,6 +20,7 @@ Hashicorp vault
 
 Nightbot
 
+
 ## Next 
 
 https://getgrav.org/
@@ -26,6 +29,8 @@ https://getgrav.org/
 Jenkins x
 
 ## Pendientes 
+
+gitlab CI/CD con DIND
 
 https://docksal.io/
 
@@ -69,7 +74,6 @@ Kind
 
 Kustomize
 
-gitlab CI/CD
 
 pulumi
 
