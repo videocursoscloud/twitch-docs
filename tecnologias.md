@@ -33,6 +33,8 @@ Jenkins x
 
 ## Pendientes 
 
+aws nuke https://github.com/rebuy-de/aws-nuke
+
 istio / service mesh teorico
 
 gitlab CI/CD con DIND
