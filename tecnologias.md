@@ -30,10 +30,11 @@ https://docs.k0sproject.io/latest/k0s-single-node/
 
 https://getgrav.org/
 
-
 Jenkins x
 
 ## Pendientes 
+
+Grafana loki 
 
 aws nuke https://github.com/rebuy-de/aws-nuke
 
